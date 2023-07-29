@@ -1,5 +1,5 @@
 # engineering-management
-Mes notes sur le sujet
+Mes notes sur le sujet en franglish ^^
 
 ## What is engineering management?
 
