@@ -11,17 +11,17 @@ Mes notes sur le sujet
   - Google a testé les dix comportements avec un échantillon aléatoire de sondages auprès des managers, et a trouvé une forte corrélation entre ces comportements et l’efficacité des managers et les résultats des équipes (turnover, satisfaction, performance).
   - Google a mis à jour ses formations et ses outils pour les managers en fonction des dix comportements, et a conclu que les managers comptent toujours beaucoup pour le succès de l’entreprise.
       
-    Les 10 comportements Oxygen des meilleurs managers de Google (les comportements 3 et 6 ont été mis à jour et les comportements 9 et 10 sont nouveaux) :
-    1. Est un bon coach
-    1. Responsabilise l’équipe et ne microgère pas
-    1. Crée un environnement d’équipe inclusif, montrant le souci du succès et du bien-être
-    1. Est productif et axé sur les résultats
-    1. Est un bon communicateur – écoute et partage l’information
-    1. Soutient le développement de carrière et discute du rendement
-    1. A une vision/stratégie claire pour l’équipe
-    1. Possède des compétences techniques clés pour aider à conseiller l’équipe
-    1. Collabore avec l'entreprise
-    1. Est un décideur fort
+Les 10 comportements Oxygen des meilleurs managers de Google (les comportements 3 et 6 ont été mis à jour et les comportements 9 et 10 sont nouveaux) :
+1. Est un bon coach
+2. Responsabilise l’équipe et ne microgère pas
+3. Crée un environnement d’équipe inclusif, montrant le souci du succès et du bien-être
+4. Est productif et axé sur les résultats
+5. Est un bon communicateur – écoute et partage l’information
+6. Soutient le développement de carrière et discute du rendement
+7. A une vision/stratégie claire pour l’équipe
+8. Possède des compétences techniques clés pour aider à conseiller l’équipe
+9. Collabore avec l'entreprise
+10. Est un décideur fort
 
 
 ## What is engineering management?
