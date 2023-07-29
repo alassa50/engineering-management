@@ -12,8 +12,8 @@ Mes notes sur le sujet
 
 ### Articles
 
-- "If your boss could do your job, you're more likely to be happy at work"
-  - 📙 [If Your Boss Could Do Your Job...](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) [2016]
+- "Si votre patron pouvait faire votre travail, vous êtes plus susceptible d’être heureux au travail"
+  - 📙 [If your boss could do your job, you're more likely to be happy at work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) [2016]
   - 📙 [Steve Jobs Said the Best Managers Never Actually Want to Be Managers. Science Says He Was Right](https://www.inc.com/jeff-haden/37-years-ago-steve-jobs-said-best-managers-never-want-to-be-a-manager-science-says-he-was-right.html) [2022]
  - 📙 [Project Oxygen](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/) Google [2008 - 2023]
     - Le projet Oxygen de Google est une étude interne sur les qualités d’un bon manager.
