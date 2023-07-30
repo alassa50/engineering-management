@@ -9,7 +9,8 @@ Mes notes sur le sujet en franglish ^^
 ## Lectures
 
 ### Livres
-
+- [The Manager's Path](https://www.amazon.fr/-/en/Camille-Fournier/dp/1491973897) [2017]
+ 
 ### Articles
 
 - "Si votre patron pouvait faire votre travail, vous êtes plus susceptible d’être heureux au travail"
