@@ -22,7 +22,18 @@ Mes notes sur le sujet en franglish ^^
 - 📙 [17 raisons de ne pas être manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/comment-page-1/) Blog [2019]
   - il n’y a pas de bonne ou de mauvaise réponse à la question de savoir si on veut être un manager ou non. Il suggère que c’est un calcul complexe qui dépend des motivations, des compétences et des circonstances de chacun. Il conseille d’être honnête avec soi-même et d’essayer le management pendant au moins deux ans si l’occasion se présente, tout en étant prêt à apprendre un nouveau métier.
   - L’auteur conclut que le management est une expérience enrichissante mais difficile, qui n’est pas faite pour tout le monde. Il encourage les ingénieurs à développer des compétences de management sans forcément changer de rôle, et à ne pas sous-estimer le bonheur qu’ils peuvent trouver en tant que contributeurs individuels. Il affirme que le management sera toujours une option plus tard, et qu’il faut profiter du moment présent.
-
+- 📙 [Comment échouer en tant que nouveau EM](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a) Article [2018]
+  - Les huit erreurs à éviter : L’auteur décrit les pièges suivants :
+    - Continuer à coder au lieu de se concentrer sur le développement de l’équipe.
+    - Se focaliser uniquement sur le travail, pas sur les personnes1.
+    - Mesurer sa valeur par sa production, pas par celle de son équipe.
+    - Avoir des attentes sans les exprimer clairement.
+    - Exclure l’équipe des engagements pris avec les parties prenantes.
+    - Confondre le fait de diriger avec le fait de leader.
+    - Éviter les conversations difficiles.
+    - Arrêter d’apprendre son métier de manager.
+  - L’apprentissage continu du management : L’auteur conclut en encourageant les nouveaux managers à se former et à s’améliorer en tant que managers, en utilisant les mêmes méthodes que celles qu’ils utilisaient en tant qu’ingénieurs.
+  
 ## Newsletters
 - 📙 [Pragmatic Engineer](https://newsletter.pragmaticengineer.com) [Free & Paid Versions]
 
