@@ -45,6 +45,10 @@ Mes notes sur le sujet en franglish ^^
     - La promotion de la diversité ethnique au sein des postes de leadership en ingénierie
     - La satisfaction de voir les personnes et les équipes s’épanouir
     - L’importance des décisions stratégiques, de la culture et du leadership pour la réussite des entreprises
+- 📙 [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/) Blog [2017]
+  - un article qui décrit comment les nouveaux managers peuvent échouer en faisant des erreurs de communication, de jugement et de délégation, et comment les éviter.
+  - Le management n’est pas une promotion : un conseil pour les nouveaux managers de considérer leur rôle comme un nouveau départ de carrière, et de se concentrer sur la construction d’une équipe saine qui fait un travail de qualité à l’échelle.
+  - Trois leçons pour les nouveaux managers : des suggestions pour écouter les opinions des autres, recruter une équipe diversifiée et déléguer plus que ce qui est confortable, afin de renforcer la confiance au sein de l’équipe.
   
 ## Newsletters
 - 📙 [Pragmatic Engineer](https://newsletter.pragmaticengineer.com) [Free & Paid Versions]
