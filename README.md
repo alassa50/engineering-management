@@ -19,10 +19,10 @@ Mes notes sur le sujet en franglish ^^
 - 📙 [Project Oxygen](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/) Google [2008 - 2023]
 
 #### Devenir manager  
-- 📙 [17 raisons de ne pas être manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/comment-page-1/) Blog [2019]
+- 📙 [17 Reasons NOT To Be A Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/comment-page-1/) Blog [2019]
   - il n’y a pas de bonne ou de mauvaise réponse à la question de savoir si on veut être un manager ou non. Il suggère que c’est un calcul complexe qui dépend des motivations, des compétences et des circonstances de chacun. Il conseille d’être honnête avec soi-même et d’essayer le management pendant au moins deux ans si l’occasion se présente, tout en étant prêt à apprendre un nouveau métier.
   - L’auteur conclut que le management est une expérience enrichissante mais difficile, qui n’est pas faite pour tout le monde. Il encourage les ingénieurs à développer des compétences de management sans forcément changer de rôle, et à ne pas sous-estimer le bonheur qu’ils peuvent trouver en tant que contributeurs individuels. Il affirme que le management sera toujours une option plus tard, et qu’il faut profiter du moment présent.
-- 📙 [Comment échouer en tant que nouveau EM](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a) Article [2018]
+- 📙 [How to fail as a new engineering manager](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a) Article [2018]
   - Les huit erreurs à éviter : L’auteur décrit les pièges suivants :
     - Continuer à coder au lieu de se concentrer sur le développement de l’équipe.
     - Se focaliser uniquement sur le travail, pas sur les personnes1.
@@ -33,6 +33,18 @@ Mes notes sur le sujet en franglish ^^
     - Éviter les conversations difficiles.
     - Arrêter d’apprendre son métier de manager.
   - L’apprentissage continu du management : L’auteur conclut en encourageant les nouveaux managers à se former et à s’améliorer en tant que managers, en utilisant les mêmes méthodes que celles qu’ils utilisaient en tant qu’ingénieurs.
+- 📙 [Choosing the Management Track](https://blog.danielna.com/choosing-the-management-track/) Blog [2020]
+  - quatre différences majeures entre les rôles d’IC et d’EM
+    - Le dev : Les EM ne codent plus ou très peu, car leur emploi du temps est imprévisible et ils doivent se concentrer sur les tâches de management. Les IC sont mesurés par leur contribution technique individuelle.
+    - L’attention : Les EM doivent se soucier de tout ce qui affecte la sortie de leur organisation, comme la rétention, la culture, les priorités, etc. Les IC sont plus en contrôle des facteurs qui déterminent leur sortie.
+    - Le management crée une hiérarchie de pouvoir inévitable. Cela implique des compromis sur la loyauté envers l’entreprise, l’amitié et l’humour.
+    - Les EM doivent être assez techniques pour intervenir lorsque les projets ne sont pas livrés correctement. Ils doivent assurer la responsabilité et la qualité de l’exécution technique de leur équipe.
+  - Les motivations (de l'auteur) dans la voie de l'EM
+    - L’alignement avec ses compétences intrinsèques
+    - La validation de ses opinions sur l’exécution et la culture du travail d’ingénierie
+    - La promotion de la diversité ethnique au sein des postes de leadership en ingénierie
+    - La satisfaction de voir les personnes et les équipes s’épanouir
+    - L’importance des décisions stratégiques, de la culture et du leadership pour la réussite des entreprises
   
 ## Newsletters
 - 📙 [Pragmatic Engineer](https://newsletter.pragmaticengineer.com) [Free & Paid Versions]
