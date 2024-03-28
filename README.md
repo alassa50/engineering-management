@@ -18,7 +18,7 @@ Mes notes sur le sujet en franglish ^^
   - 📙 [Steve Jobs Said the Best Managers Never Actually Want to Be Managers. Science Says He Was Right](https://www.inc.com/jeff-haden/37-years-ago-steve-jobs-said-best-managers-never-want-to-be-a-manager-science-says-he-was-right.html) [2022]
 - 📙 [Project Oxygen](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/) Google [2008 - 2023]
 
-#### Devenir manager  
+#### Devenir manager
 - 📙 [17 Reasons NOT To Be A Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/comment-page-1/) Blog [2019]
   - il n’y a pas de bonne ou de mauvaise réponse à la question de savoir si on veut être un manager ou non. Il suggère que c’est un calcul complexe qui dépend des motivations, des compétences et des circonstances de chacun. Il conseille d’être honnête avec soi-même et d’essayer le management pendant au moins deux ans si l’occasion se présente, tout en étant prêt à apprendre un nouveau métier.
   - L’auteur conclut que le management est une expérience enrichissante mais difficile, qui n’est pas faite pour tout le monde. Il encourage les ingénieurs à développer des compétences de management sans forcément changer de rôle, et à ne pas sous-estimer le bonheur qu’ils peuvent trouver en tant que contributeurs individuels. Il affirme que le management sera toujours une option plus tard, et qu’il faut profiter du moment présent.
@@ -49,6 +49,14 @@ Mes notes sur le sujet en franglish ^^
   - un article qui décrit comment les nouveaux managers peuvent échouer en faisant des erreurs de communication, de jugement et de délégation, et comment les éviter.
   - Le management n’est pas une promotion : un conseil pour les nouveaux managers de considérer leur rôle comme un nouveau départ de carrière, et de se concentrer sur la construction d’une équipe saine qui fait un travail de qualité à l’échelle.
   - Trois leçons pour les nouveaux managers : des suggestions pour écouter les opinions des autres, recruter une équipe diversifiée et déléguer plus que ce qui est confortable, afin de renforcer la confiance au sein de l’équipe.
+
+#### Structure organisationnelle
+- 📙 [Independence, autonomy, and too many small teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/) Blog [2020]
+  - **Philosophie des équipes "deux pizzas"** : L'idée est de créer des équipes petites et autonomes, capables de résoudre des problèmes de manière indépendante. Cette approche vise à minimiser la communication entre les équipes et à donner à chaque équipe le contrôle complet de la création de valeur pour le client.
+  - **Perte de l'intention originale** : En grandissant, les entreprises transforment souvent ces équipes en groupes plus petits et spécialisés, ce qui dilue leur mission et autonomie, et augmente la charge de coordination, allant à l'encontre de l'esprit initial de l'autonomie.
+  - **Coût élevé de la collaboration** : La collaboration pendant l'exécution d'un projet peut être coûteuse en termes de temps et d'efforts, car elle nécessite une synchronisation constante entre les équipes ou les individus, ce qui peut ralentir le processus.
+  - **Solution proposée** : Organiser les équipes autour de problèmes clients complets plutôt que par fonction, permettant à chaque équipe de posséder l'ensemble du "pipeline" de tâches et de livrer de la valeur au client de manière indépendante.
+  - => Maintenir l'autonomie et la mission claire des équipes pour favoriser l'agilité et l'efficacité, surtout dans les grandes organisations.
   
 ## Newsletters
 - 📙 [Pragmatic Engineer](https://newsletter.pragmaticengineer.com) [Free & Paid Versions]
