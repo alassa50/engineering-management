@@ -57,6 +57,11 @@ Mes notes sur le sujet en franglish ^^
 
 - 1:1 
 
+## Citations
+
+> Les meilleures nouvelles idées ont toujours des avantages inattendus. Il est donc stupide d’exiger des personnes qui veulent faire de nouvelles choses qu’elles en énumèrent les avantages à l’avance. Le mieux que vous puissiez faire est de choisir des personnes intelligentes, puis de faire confiance à leurs intuitions sur ce qui vaut la peine d’être exploré.
+>
+> — Paul Graham https://twitter.com/paulg/status/1619753568264921089
 
 ## Autres
 - 📙 [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos) Google [2018]
