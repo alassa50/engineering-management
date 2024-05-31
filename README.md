@@ -57,6 +57,18 @@ Mes notes sur le sujet en franglish ^^
   - **Coût élevé de la collaboration** : La collaboration pendant l'exécution d'un projet peut être coûteuse en termes de temps et d'efforts, car elle nécessite une synchronisation constante entre les équipes ou les individus, ce qui peut ralentir le processus.
   - **Solution proposée** : Organiser les équipes autour de problèmes clients complets plutôt que par fonction, permettant à chaque équipe de posséder l'ensemble du "pipeline" de tâches et de livrer de la valeur au client de manière indépendante.
   - => Maintenir l'autonomie et la mission claire des équipes pour favoriser l'agilité et l'efficacité, surtout dans les grandes organisations.
+
+#### Délégation
+- Contre le micro-management : « Après avoir planté une graine dans le sol, on ne la déterre pas toutes les semaines pour voir comment elle se porte », William Coyne, responsable de la R&D chez 3M.
+- Le principe de délégation 70/10/80 : « Trouvez quelqu’un qui peut faire ce que vous faites avec un taux de réussite de 70 %. Enseignez-leur les 10 % supplémentaires et soyez d’accord avec 80 %.
+- 📖 [Votre petite demande imprécise est une grosse perte de temps](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html) Blog [2023]
+  -  **Précision des Demandes** : Les demandes imprécises des managers et des leaders peuvent causer beaucoup de troubles et de perte de temps.
+  -  **Investissement en Temps** : Les leaders doivent être très précis sur le temps qu’ils demandent lorsqu’ils demandent des tâches.
+- 📖 [L’art contre-intuitif de diriger en lâchant prise](https://www.behance.net/blog/the-counter-intuitive-art-of-leading-by-letting-go) Blog [2015]
+  - **Écart de Pouvoir** : L'article discute de la contradiction entre le désir des dirigeants d'avoir des employés "autonomes et engagés" et la réalité des interactions qui réduisent souvent l'empowerment des employés.
+  - **Expérience de Milgram** : Il fait référence à l'expérience de Stanley Milgram des années 1960 qui a démontré la tendance des gens à obéir aux autorités, même contre leur conscience.
+  - **Leadership et Responsabilité** : L'article souligne l'importance pour les leaders de promouvoir la prise de décision et la responsabilité à tous les niveaux, plutôt que de donner des ordres.
+  - **Échelle du Leadership** : Il présente la "ladder of leadership", un outil pour mesurer et influencer l'empowerment en fonction des paroles des employés et des dirigeants.
   
 ## Newsletters
 - 📧 [Pragmatic Engineer](https://newsletter.pragmaticengineer.com) [Free & Paid Versions]
